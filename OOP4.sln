@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP4", "OOP4\OOP4.csproj", "{517FCB22-E344-4A63-BCB7-E62C1102B986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{DE50A243-0428-469C-A2CC-74D406B6EFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{17B09F4D-870B-459D-9C2A-171072DC92C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517FCB22-E344-4A63-BCB7-E62C1102B986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517FCB22-E344-4A63-BCB7-E62C1102B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517FCB22-E344-4A63-BCB7-E62C1102B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517FCB22-E344-4A63-BCB7-E62C1102B986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE50A243-0428-469C-A2CC-74D406B6EFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE50A243-0428-469C-A2CC-74D406B6EFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE50A243-0428-469C-A2CC-74D406B6EFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE50A243-0428-469C-A2CC-74D406B6EFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B09F4D-870B-459D-9C2A-171072DC92C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B09F4D-870B-459D-9C2A-171072DC92C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B09F4D-870B-459D-9C2A-171072DC92C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B09F4D-870B-459D-9C2A-171072DC92C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F25BF9-1018-42DB-8426-13882961C672}
+	EndGlobalSection
+EndGlobal
