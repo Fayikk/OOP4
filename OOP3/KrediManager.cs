@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {//interfaceler genellikle operasyonel metodlarda kullanılır.
-     interface IKrediManager
+ //interfaceleri birbirinin alternatifi olan ama kod içerikleri farklı olan durumlar için kullanırız.
+
+    interface IKrediManager
     {
          void Hesapla();
         void BiseyYap();

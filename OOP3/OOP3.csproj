@@ -44,11 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasvuruManager.cs" />
+    <Compile Include="DataBaseLoggerService.cs" />
+    <Compile Include="EsnafKredisiManager.cs" />
+    <Compile Include="FileLoggerService.cs" />
     <Compile Include="IhtıyacKrediManager.cs" />
+    <Compile Include="ILoggerService.cs" />
     <Compile Include="KonutKrediManager.cs" />
     <Compile Include="KrediManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmsLoggerService.cs" />
     <Compile Include="TaşıtKredisiManager.cs" />
   </ItemGroup>
   <ItemGroup>
